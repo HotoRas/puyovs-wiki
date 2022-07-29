@@ -2,6 +2,8 @@
 
 Welcome to the Puyo VS 2 Wiki.
 
+Go click 'wiki' to watch the wiki content.
+
 Puyo VS 2 was originally written by [Hernan](https://twitter.com/HernanZh/) with some contributions from other developers.
 
 We hope that the community can benefit from this release and build a robust future for Puyo VS.
